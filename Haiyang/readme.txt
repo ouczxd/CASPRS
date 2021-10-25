@@ -1,0 +1,1 @@
+This directory contains the supplematary files of the paper "Using a transect-focused approach to interpret satellite images and analyze shoreline evolution in Haiyang Beach, China", which is published on the "Marine Geology" in 2021.
