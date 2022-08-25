@@ -1,1 +1,1 @@
-This directory contions the supplementary files for the paper "Using free satellite imagery to study the long-term evolution of intertidal bar systems"
+This directory contions the preprint version of the  paper "Using free satellite imagery to study the long-term evolution of intertidal bar systems" published by Coastal Engineering in 2022 and the supplementary files.
